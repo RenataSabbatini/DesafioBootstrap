@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fondoNav{
+background-color: blue;
+}
+
+.nav{
+    display: flex;
+    justify-content: end;
+}
